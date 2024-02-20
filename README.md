@@ -1,4 +1,4 @@
-### Check out the complete website hoisted on the following link
+### Check out the complete website hosted on the following link
 https://ecommercefrontend-f1e87.web.app
 
 
